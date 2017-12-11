@@ -1,0 +1,9 @@
+# ninja log v5
+0	489	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	feff86a6daa4edba
+490	674	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	6a5db8dddb0c3a34
+1	2793	0	CMakeFiles/convertGray.dir/src/main/cpp/convertGray.cpp.o	3fc0a683b4e47c8c
+2795	3241	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libconvertGray.so	bb02a53dfcf539a5
+2	3205	0	CMakeFiles/convertGray.dir/src/main/cpp/convertGray.cpp.o	3fc0a683b4e47c8c
+3205	3645	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libconvertGray.so	bb02a53dfcf539a5
+4	2456	0	CMakeFiles/convertGray.dir/src/main/cpp/convertGray.cpp.o	3fc0a683b4e47c8c
+2456	2907	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libconvertGray.so	bb02a53dfcf539a5

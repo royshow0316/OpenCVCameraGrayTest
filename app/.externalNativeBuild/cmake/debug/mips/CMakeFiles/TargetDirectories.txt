@@ -1,0 +1,4 @@
+/Users/roy/AndroidStudioProjects/OpenCVCamearTest/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/edit_cache.dir
+/Users/roy/AndroidStudioProjects/OpenCVCamearTest/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/rebuild_cache.dir
+/Users/roy/AndroidStudioProjects/OpenCVCamearTest/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/convertGray.dir
+/Users/roy/AndroidStudioProjects/OpenCVCamearTest/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/native-lib.dir

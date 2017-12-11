@@ -1,0 +1,5 @@
+# ninja log v5
+0	568	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	f50e397eaaaee7f9
+570	695	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	248252060f9469fb
+1	2531	0	CMakeFiles/convertGray.dir/src/main/cpp/convertGray.cpp.o	3933954180e006cf
+2533	2800	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libconvertGray.so	dc2844bca6f05b2c
